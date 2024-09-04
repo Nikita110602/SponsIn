@@ -87,7 +87,7 @@ const Footer = () => {
   </div>
   <div className="bg-gray-100">
     <div className="container mx-auto py-4 px-5 flex flex-wrap flex-col items-center justify-center">
-      <p className="text-gray-500 text-sm text-center sm:text-left">© made-with-love by Tech Pirates❤️
+      <p className="text-gray-500 text-sm text-center sm:text-left">© made by NIKITA SHARMA
       </p>
     </div>
   </div>
